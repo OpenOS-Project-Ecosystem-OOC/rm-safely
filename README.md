@@ -55,7 +55,10 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@zdk](https://github.com/zdk) | 65 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 5 |
 <!-- AI:end:contributors -->
 
 ## Origins
